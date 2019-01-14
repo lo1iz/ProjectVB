@@ -254,7 +254,7 @@ Partial Class Netflix
         Me.ComboBoxGenre.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.ComboBoxGenre.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(222, Byte))
         Me.ComboBoxGenre.FormattingEnabled = True
-        Me.ComboBoxGenre.Items.AddRange(New Object() {"Action", "Adventure", "Animation", "Comedy", "Crime", "Drama"})
+        Me.ComboBoxGenre.Items.AddRange(New Object() {"Action", "Adventure", "Animation", "Biography", "Comedy", "Crime", "Documentary", "Drama", "Musical", "Mystery", "Reality-TV", "Thriller"})
         Me.ComboBoxGenre.Location = New System.Drawing.Point(203, 123)
         Me.ComboBoxGenre.Name = "ComboBoxGenre"
         Me.ComboBoxGenre.Size = New System.Drawing.Size(233, 28)
