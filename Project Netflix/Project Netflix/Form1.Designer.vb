@@ -326,6 +326,7 @@ Partial Class Netflix
         Me.Margin = New System.Windows.Forms.Padding(4)
         Me.MaximizeBox = False
         Me.Name = "Netflix"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Netflix"
         Me.TabControl1.ResumeLayout(False)
         Me.TabPage1.ResumeLayout(False)
